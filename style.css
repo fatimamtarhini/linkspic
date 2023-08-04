@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#counter-label{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+.btn{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
